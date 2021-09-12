@@ -5,7 +5,7 @@ All projects descriptions are in their folders.
 </br>
 HW1:</br>
 Function Approximation (Tic-tac-toe Game)</br>
-In this assignment I had to use the Mitchel’s described approach to implement an algorithm to learn to play Tic-tac-toe game. </br>
+In this assignment I had to use the Mitchel’s described approach to implement an algorithm to learn to play Tic-tac-toe game. (This one is a smooth copy from other rep) </br>
 </br>
 </br>
 HW2:</br>
